@@ -1,0 +1,9 @@
+.menubalk {
+  background-color: rgb(255, 0, 0);
+  color: azure;
+  display: flex;
+  padding: 16px;
+}
+nav a {
+padding-left: 16px;
+}
